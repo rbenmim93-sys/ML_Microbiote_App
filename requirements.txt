@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+rdkit-pypi  # Nécessaire pour Chem
+mordred     # Nécessaire pour le calcul des descripteurs
+matplotlib
