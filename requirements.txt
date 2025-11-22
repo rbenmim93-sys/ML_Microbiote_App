@@ -4,5 +4,5 @@ numpy
 joblib
 scikit-learn
 rdkit-pypi==2022.9.5
-mordred==1.2.0
+mordred
 matplotlib
