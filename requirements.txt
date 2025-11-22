@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-joblib
-scikit-learn
-rdkit-pypi==2022.9.5  # Version compatible Python 3.10
-mordred==1.2.0       # Version stable et compatible
-matplotlib
