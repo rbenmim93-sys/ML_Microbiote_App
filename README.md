@@ -1,12 +1,9 @@
 ---
-title: ML Microbiote Predictor
+title: Prédicteur Microbiote
 emoji: 🔬
 colorFrom: green
 colorTo: blue
-sdk: gradio
-python_version: 3.10
-models:
-  - your_github_username/ml_microbiote_app
+sdk: docker             # CHANGEMENT : Confirmer le mode Docker
 app_file: app.py
 pinned: false
 ---
